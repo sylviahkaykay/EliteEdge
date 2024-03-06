@@ -37,7 +37,7 @@ const styles = StyleSheet.create({
   },
   profilepicture: {
     borderRadius: 39,
-    height: 80, // Adjusted the height and width
+    height: 80, 
     width: 80,
   },
   profile: {
@@ -46,16 +46,16 @@ const styles = StyleSheet.create({
     justifyContent: 'space-between',
   },
   body: {
-    height: 200, // Adjusted the height and width
-    width: '100%', // Set width to 100%
+    height: 200, 
+    width: '100%', 
   },
   one: {
     flexDirection: 'row',
-    alignItems: 'center', // Align items in the center vertically
+    alignItems: 'center',
   },
   two: {
     flexDirection: 'row',
     justifyContent: 'space-between',
-    padding: 10, // Added padding for better spacing
+    padding: 10,   
   },
 });
